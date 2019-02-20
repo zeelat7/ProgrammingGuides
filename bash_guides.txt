@@ -1,0 +1,5 @@
+#bash tutorial
+https://ryanstutorials.net/bash-scripting-tutorial/#introduction
+
+#bash decoder
+https://explainshell.com/explain?cmd=cat+-A+my_file.csv+%7C+dos2unix+%7C+sed+%27s%2F%2C%2F%7C%2Fg%27+%7C%26+tee+-a+my_clean_file.bsv

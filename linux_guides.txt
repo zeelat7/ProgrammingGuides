@@ -1,0 +1,11 @@
+#guide to sed
+https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux
+
+#guide to grep
+http://www.panix.com/~elflord/unix/grep.html
+
+#regex tester
+https://regexone.com/
+
+#guide to awk
+https://www.tutorialspoint.com/awk/

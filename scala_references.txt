@@ -1,0 +1,14 @@
+#99 practice problems
+http://aperiodic.net/phil/scala/s-99/
+
+#scala docs tutorials
+https://docs.scala-lang.org/tour/tour-of-scala.html
+
+#programming in scala - classes - another reference
+http://www.alessandrolacava.com/blog/scala-case-classes-in-depth/
+
+#programming in scala Option cheat sheet
+http://blog.tmorris.net/posts/scalaoption-cheat-sheet/
+
+#programming in scala - traits reference doc
+https://docs.scala-lang.org/tour/traits.html

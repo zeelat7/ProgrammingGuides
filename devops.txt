@@ -1,0 +1,7 @@
+#this document outlines any things come across that will assist with devops functions
+
+#if you have sbt running, and you're deploying a package.  If you get a Java memory error you can use the below syntax to enter into SBT_OPTS
+export SBT_OPTS="$SBT_OPTS -Xmx2G -XX:+UseConcMarkSweepGC -XX:+CMSClassUnloadingEnabled -Dhttp.proxyHost=10.254.250.38 -Dhttp.proxyPort=1280 -Dhttp.proxySet=true"
+export SBT_OPTS="$SBT_OPTS -Xmx2G -XX:+UseConcMarkSweepGC -XX:+CMSClassUnloadingEnabled -Dhttps.proxyHost=10.254.250.38 -Dhttps.proxyPort=1280 -Dhttps.proxySet=true"
+
+

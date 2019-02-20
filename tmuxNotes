@@ -1,0 +1,17 @@
+Inside Tmux
+Prefix Ctrl + b
+
+pf +c create new window
+pf +n move forward one window
+pf +p move backward one window
+pf +% split screen vertically
+pf +" split screen horizontally "
+pf +arrow direction move between split screens
+pf +, rename a window
+pf +x delete a window or tmux kill-window -t window #
+
+tmux -> starts new session
+tmux ls -> lists all your current tmux sessions
+tmux a -t(session #) -> attaches to a session number x (tmux a -t1)
+
+https://gist.github.com/henrik/1967800
